@@ -6,6 +6,9 @@
 
 ### Don't be shy if you have any questions.
 
+> If for any reason, you need to send me a sensitive message,
+> or something private, please encrypt it using PGP.
+
 <details>
   <summary>Public Key</summary>
   
