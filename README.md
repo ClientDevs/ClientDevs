@@ -60,3 +60,13 @@ RLb9z2JfrTTA1VxY1+IcaGShCWOsoiIxTuuk8jjN
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 </details>
+
+<details>
+  <summary>Key Details</summary>
+  
+  **User ID:** Client
+  
+  **Expiry:** 1/1/2023
+  
+  **Fingerprint:** AE1F 0C77 3D3C 4460 3C8C  EF46 4D85 451B 686C D3B2
+ </details>
