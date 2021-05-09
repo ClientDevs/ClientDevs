@@ -1,6 +1,8 @@
 # Well, hi.
 
 > Discord: Client#3515
+>
+> MC-Market: https://www.mc-market.org/members/264529/
 #
 ### Don't be shy if you have any questions.
 #
@@ -12,7 +14,7 @@
   <summary>Public Key</summary>
   
 ```
------BEGIN PGP PUBLIC KEY BLOCK-----
+-----BEGIN PGP PUBLIC KEY BLOCK-----z
 
 mQINBGCQeVcBEACtF6reuB5VyVHdz6bHTZzQ93LPQdRNeblZr5/b+yECcdFvsEgu
 STA1VZYEXOiwvW6W9sjQw6LBaYjsUnc91jA52ZMreelr787o+BltlbAt3w5zJIet
